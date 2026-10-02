@@ -2,7 +2,7 @@
 
 A microservices platform for managing users, wallets, orders, and payments.
 
-📖 In Russian: [перевод на русский](#)
+📖 In Russian: [перевод на русский](https://github.com/CkutlsGit/merezh/blob/main/README.ru.md)
 
 ## 📋 Overview
 
