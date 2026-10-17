@@ -6,7 +6,7 @@ A microservices platform for managing users, wallets, orders, and payments.
 
 ## 📋 Overview
 
-Merezh is a learning microservices project built with **Java 21 + Spring Boot 3**. The platform consists of **six services** communicating over **HTTP**. The project demonstrates:
+Merezh is a learning microservices project built with **Java 21 + Spring Boot 4**. The platform consists of **six services** communicating over **HTTP**. The project demonstrates:
 
 - separation into bounded contexts,
 - a single entry point (Gateway) with JWT authentication,
@@ -64,7 +64,7 @@ The project is built as a **portfolio** to showcase microservices design skills.
 **Backend**
 
 - Java 21 - core language
-- Spring Boot 3 - application framework
+- Spring Boot 4 - application framework
 - Spring Data JPA - database access and ORM
 - Spring Security - authentication and authorization (in Gateway)
 - Spring Security Crypto - BCrypt
